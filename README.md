@@ -12,3 +12,9 @@ In this repo I will place my solutions for the programming tasks I do while lear
   * Exceptions
 - Files:
   * Streams
+  * Scanners
+  * Pattern, Matcher
+  * Serialization
+- GUI:
+  * Java Swing
+  * Threads
